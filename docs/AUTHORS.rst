@@ -15,7 +15,7 @@ This list is sorted by the number of commits per contributor in *descending* ord
      - Contributions
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/10231489?v=4' width='36' height='36' alt='@myii'>`
      - `@myii <https://github.com/myii>`_
-     - 100
+     - 148
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/1800660?v=4' width='36' height='36' alt='@aboe76'>`
      - `@aboe76 <https://github.com/aboe76>`_
      - 22
@@ -24,45 +24,48 @@ This list is sorted by the number of commits per contributor in *descending* ord
      - 6
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/13322818?v=4' width='36' height='36' alt='@noelmcloughlin'>`
      - `@noelmcloughlin <https://github.com/noelmcloughlin>`_
-     - 5
+     - 6
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/4195158?v=4' width='36' height='36' alt='@dafyddj'>`
      - `@dafyddj <https://github.com/dafyddj>`_
-     - 3
+     - 4
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/28721441?v=4' width='36' height='36' alt='@kjkeane'>`
      - `@kjkeane <https://github.com/kjkeane>`_
      - 3
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/15609251?v=4' width='36' height='36' alt='@omltorg'>`
      - `@omltorg <https://github.com/omltorg>`_
      - 2
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/214768?v=4' width='36' height='36' alt='@ixs'>`
-     - `@ixs <https://github.com/ixs>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/2619394?v=4' width='36' height='36' alt='@apatard'>`
-     - `@apatard <https://github.com/apatard>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/637990?v=4' width='36' height='36' alt='@bmwiedemann'>`
-     - `@bmwiedemann <https://github.com/bmwiedemann>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/1233212?v=4' width='36' height='36' alt='@baby-gnu'>`
-     - `@baby-gnu <https://github.com/baby-gnu>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/6086064?v=4' width='36' height='36' alt='@mgomersbach'>`
-     - `@mgomersbach <https://github.com/mgomersbach>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/12431506?v=4' width='36' height='36' alt='@kumpa'>`
-     - `@kumpa <https://github.com/kumpa>`_
-     - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/2720787?v=4' width='36' height='36' alt='@rossengeorgiev'>`
-     - `@rossengeorgiev <https://github.com/rossengeorgiev>`_
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/48949?v=4' width='36' height='36' alt='@tampakrap'>`
+     - `@tampakrap <https://github.com/tampakrap>`_
      - 1
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/60104242?v=4' width='36' height='36' alt='@sschols'>`
      - `@sschols <https://github.com/sschols>`_
      - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/48949?v=4' width='36' height='36' alt='@tampakrap'>`
-     - `@tampakrap <https://github.com/tampakrap>`_
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/2720787?v=4' width='36' height='36' alt='@rossengeorgiev'>`
+     - `@rossengeorgiev <https://github.com/rossengeorgiev>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/12431506?v=4' width='36' height='36' alt='@kumpa'>`
+     - `@kumpa <https://github.com/kumpa>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/6086064?v=4' width='36' height='36' alt='@mgomersbach'>`
+     - `@mgomersbach <https://github.com/mgomersbach>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/1233212?v=4' width='36' height='36' alt='@baby-gnu'>`
+     - `@baby-gnu <https://github.com/baby-gnu>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/637990?v=4' width='36' height='36' alt='@bmwiedemann'>`
+     - `@bmwiedemann <https://github.com/bmwiedemann>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/2619394?v=4' width='36' height='36' alt='@apatard'>`
+     - `@apatard <https://github.com/apatard>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/214768?v=4' width='36' height='36' alt='@ixs'>`
+     - `@ixs <https://github.com/ixs>`_
+     - 1
+   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars.githubusercontent.com/u/260709629?v=4' width='36' height='36' alt='@awede2'>`
+     - `@awede2 <https://github.com/awede2>`_
      - 1
 
 
 ----
 
-Auto-generated by a `forked version <https://github.com/myii/maintainer>`_ of `gaocegege/maintainer <https://github.com/gaocegege/maintainer>`_ on 2021-08-25.
+Auto-generated by `gaocegege/maintainer <https://github.com/maintainer-org/maintainer>`_ on 2026-05-18.

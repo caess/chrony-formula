@@ -1,5 +1,66 @@
 # Changelog
 
+## [1.3.1](https://github.com/saltstack-formulas/chrony-formula/compare/v1.3.0...v1.3.1) (2026-05-18)
+
+### Testing
+
+* **system.rb:** add support for `mac_os_x` [skip ci] ([d37bb98](https://github.com/saltstack-formulas/chrony-formula/commit/d37bb98df151a6bb9d4776c514628dd8d0e5dfe3))
+* **system:** add `build_platform_codename` [skip ci] ([a8d7dd6](https://github.com/saltstack-formulas/chrony-formula/commit/a8d7dd60283cc63b3a4f337dff766d45fa6421df))
+
+### Continuous Integration
+
+* **gemfile:** allow rubygems proxy to be provided as an env var [skip ci] ([ce1d892](https://github.com/saltstack-formulas/chrony-formula/commit/ce1d892e90048d5d4ed7a49fef23cf0ec846ee60))
+* **kitchen+ci:** update with `3004` pre-salted images/boxes [skip ci] ([ae81023](https://github.com/saltstack-formulas/chrony-formula/commit/ae81023e5e1b5efca3ebe59980bcc2ed258f33b7))
+* **kitchen+ci:** update with latest CVE pre-salted images [skip ci] ([b164138](https://github.com/saltstack-formulas/chrony-formula/commit/b164138f62773da73faa5530c1fffc90b4fffd6f))
+* **kitchen+gitlab:** update for new pre-salted images [skip ci] ([82ac784](https://github.com/saltstack-formulas/chrony-formula/commit/82ac784a876ee6938a13f1a6be6a16e053a27956))
+* **kitchen+gitlab:** update for new pre-salted images [skip ci] ([0606e48](https://github.com/saltstack-formulas/chrony-formula/commit/0606e48268d99c66d10d45ab8fb6771b7973806e))
+* update `pre-commit` configuration inc. for pre-commit.ci [skip ci] ([155d4b1](https://github.com/saltstack-formulas/chrony-formula/commit/155d4b1b339d389e116598b5fae02205f9b22b8f))
+* update linters to latest versions [skip ci] ([a694ddd](https://github.com/saltstack-formulas/chrony-formula/commit/a694ddd689e7c318203f9bd06522a7f9043e4e55))
+
+### Maintenance
+
+* **copier:** apply template `copier-ssf-ci` at v2.10.7 ([14f5efb](https://github.com/saltstack-formulas/chrony-formula/commit/14f5efb5fdb0d0305363b3450ab4b6dfe04b2970))
+* **gemfile.lock:** update to latest gem versions (2021-W35) [skip ci] ([13b3837](https://github.com/saltstack-formulas/chrony-formula/commit/13b3837330a5f8a5df42038bc51086d660fa466e))
+* **gemfile.lock:** update to latest gem versions (2021-W36) [skip ci] ([cd93f73](https://github.com/saltstack-formulas/chrony-formula/commit/cd93f7393a7a96bf09570dd74542b822a729425e))
+* **gemfile.lock:** update to latest gem versions (2021-W37) [skip ci] ([2539088](https://github.com/saltstack-formulas/chrony-formula/commit/253908830b6d46284ef390d278293a8a9dadc822))
+* **gemfile.lock:** update to latest gem versions (2021-W38) [skip ci] ([755ddf9](https://github.com/saltstack-formulas/chrony-formula/commit/755ddf91eaec1849fc80c460c1ed6a929f2645ac))
+* **gemfile.lock:** update to latest gem versions (2021-W39) [skip ci] ([18b7844](https://github.com/saltstack-formulas/chrony-formula/commit/18b784478fed18f8c9b4d33e2beadbda1fe0e563))
+* **gemfile.lock:** update to latest gem versions (2021-W40) [skip ci] ([99da7ea](https://github.com/saltstack-formulas/chrony-formula/commit/99da7ea216c9d6eb9c106ac6442368ed75e4b460))
+* **gemfile.lock:** update to latest gem versions (2021-W41) [skip ci] ([5057306](https://github.com/saltstack-formulas/chrony-formula/commit/50573060353e61b906414b050f0501671524fda3))
+* **gemfile.lock:** update to latest gem versions (2021-W42) [skip ci] ([6416848](https://github.com/saltstack-formulas/chrony-formula/commit/64168487f1155f487707f21ddadb501464941f7a))
+* **gemfile.lock:** update to latest gem versions (2021-W43) [skip ci] ([3a8b231](https://github.com/saltstack-formulas/chrony-formula/commit/3a8b231ea1bfb1fd6aa9ee6d2affec00b1bdb69a))
+* **gemfile.lock:** update to latest gem versions (2021-W47) [skip ci] ([4d9ccde](https://github.com/saltstack-formulas/chrony-formula/commit/4d9ccde94e1f70c04aa83cbaff032cab383dd9c6))
+* **gemfile.lock:** update to latest gem versions (2021-W49) [skip ci] ([180ab3b](https://github.com/saltstack-formulas/chrony-formula/commit/180ab3b9d534a9959df5aeec1a84dd926523ab87))
+* **gemfile.lock:** update to latest gem versions (2021-W50) [skip ci] ([f7ec385](https://github.com/saltstack-formulas/chrony-formula/commit/f7ec385d1185a0a3323fa647556a12dd33d8e8b7))
+* **gemfile.lock:** update to latest gem versions (2021-W51) [skip ci] ([da74a5f](https://github.com/saltstack-formulas/chrony-formula/commit/da74a5f78273ca3a74f433ee37a8bfc90b83af72))
+* **gemfile.lock:** update to latest gem versions (2021-W52) [skip ci] ([02d393d](https://github.com/saltstack-formulas/chrony-formula/commit/02d393dd1952e1194c63e88352dde4c4936680fb))
+* **gemfile.lock:** update to latest gem versions (2022-W01) [skip ci] ([737edd5](https://github.com/saltstack-formulas/chrony-formula/commit/737edd52446c379ac2ad70c974e044e5b55f59c4))
+* **gemfile.lock:** update to latest gem versions (2022-W02) [skip ci] ([2eaf90e](https://github.com/saltstack-formulas/chrony-formula/commit/2eaf90ec4436ef3aefbcaeb88959344c3782376c))
+* **gemfile.lock:** update to latest gem versions (2022-W03) [skip ci] ([e8c3a07](https://github.com/saltstack-formulas/chrony-formula/commit/e8c3a073e0b77f64fe7d8cba9db256898d09fa51))
+* **gemfile.lock:** update to latest gem versions (2022-W04) [skip ci] ([0d90739](https://github.com/saltstack-formulas/chrony-formula/commit/0d907393c887e64b54d3813685a154e7d0f337a8))
+* **gemfile.lock:** update to latest gem versions (2022-W05) [skip ci] ([9e27e65](https://github.com/saltstack-formulas/chrony-formula/commit/9e27e653ee700dc2cb68b0748896a9592a359c15))
+* **gemfile.lock:** update to latest gem versions (2022-W06) [skip ci] ([0cbc955](https://github.com/saltstack-formulas/chrony-formula/commit/0cbc955d63a38777c06757d17a23c02c60e8a8dd))
+* **gemfile.lock:** update to latest gem versions (2022-W07) [skip ci] ([f1aac63](https://github.com/saltstack-formulas/chrony-formula/commit/f1aac6347fa88d4d1f9641885b1dc6d8217a0f9b))
+* **gemfile.lock:** update to latest gem versions (2022-W08) [skip ci] ([b41a97b](https://github.com/saltstack-formulas/chrony-formula/commit/b41a97ba122686dce58d8e84a41c78f13ee8ec41))
+* **gemfile.lock:** update to latest gem versions (2022-W09) [skip ci] ([465e9cc](https://github.com/saltstack-formulas/chrony-formula/commit/465e9cc55db3363116fdbc2881b808be137d06af))
+* **gemfile.lock:** update to latest gem versions (2022-W10) [skip ci] ([3851fac](https://github.com/saltstack-formulas/chrony-formula/commit/3851fac57e8764241090d95aa513042a9a8bc3b4))
+* **gemfile.lock:** update to latest gem versions (2022-W11) [skip ci] ([06ef2b9](https://github.com/saltstack-formulas/chrony-formula/commit/06ef2b90671da3950a9d55bbc8f59aa982f52f72))
+* **gemfile.lock:** update to latest gem versions (2022-W12) [skip ci] ([a8b6b10](https://github.com/saltstack-formulas/chrony-formula/commit/a8b6b10e8af1e88096aa593a19e7c34c676aefc4))
+* **gemfile.lock:** update to latest gem versions (2022-W13) [skip ci] ([d2fef47](https://github.com/saltstack-formulas/chrony-formula/commit/d2fef477d8cabc5e4c1b7d3e0502b8a2fbbf901a))
+* **gemfile.lock:** update to latest gem versions (2022-W14) [skip ci] ([01e60e0](https://github.com/saltstack-formulas/chrony-formula/commit/01e60e0949fa1489646017cf29744e2a77cde24f))
+* **gemfile.lock:** update to latest gem versions (2022-W15) [skip ci] ([997e07d](https://github.com/saltstack-formulas/chrony-formula/commit/997e07de6f2e8248291fd04defe9c48729b873f1))
+* **gemfile.lock:** update to latest gem versions (2022-W16) [skip ci] ([8ea5a90](https://github.com/saltstack-formulas/chrony-formula/commit/8ea5a9087704bb0915a1884666e635db25daabce))
+* **gemfile.lock:** update to latest gem versions (2022-W17) [skip ci] ([3074496](https://github.com/saltstack-formulas/chrony-formula/commit/30744964ed7f0bcf95292dcbff8fd17d7339b64a))
+* **gemfile.lock:** update to latest gem versions (2022-W18) [skip ci] ([f021d5f](https://github.com/saltstack-formulas/chrony-formula/commit/f021d5f6e47b67aefac5ae0aef89d54c1bc85cf6))
+* **gemfile.lock:** update to latest gem versions (2022-W19) [skip ci] ([1e3dde8](https://github.com/saltstack-formulas/chrony-formula/commit/1e3dde86738b60c24bfa6f70aa885053e93edb69))
+* **gemfile.lock:** update to latest gem versions (2022-W20) [skip ci] ([4ff556f](https://github.com/saltstack-formulas/chrony-formula/commit/4ff556fc8b91deb1b578ff686122506258a4b1fd))
+* **gemfile.lock:** update to latest gem versions (2022-W22) [skip ci] ([db6ce15](https://github.com/saltstack-formulas/chrony-formula/commit/db6ce156fe9f94437759d325c4bea52756cd3eb7))
+* **gemfile.lock:** update to latest gem versions (2022-W23) [skip ci] ([29c1180](https://github.com/saltstack-formulas/chrony-formula/commit/29c1180e3a17ebe33d799a1d6e3b521c45643895))
+* **gemfile.lock:** update to latest gem versions (2022-W24) [skip ci] ([8974342](https://github.com/saltstack-formulas/chrony-formula/commit/8974342ae8aba7fbdf39359929fe5ae88faaf419))
+* **gemfile.lock:** update to latest gem versions (2022-W26) [skip ci] ([26d9e0b](https://github.com/saltstack-formulas/chrony-formula/commit/26d9e0b768748edd2c8b110a5de791995d3f2b21))
+* **gemfile.lock:** update to latest gem versions (2022-W28) [skip ci] ([710c100](https://github.com/saltstack-formulas/chrony-formula/commit/710c1004d880afc1ebf17ce3154f8e4e5c28506c))
+* **semantic-release:** replace broken `m2r` with `m2r2` [skip ci] ([04e2db3](https://github.com/saltstack-formulas/chrony-formula/commit/04e2db3593d11d4d15aa11d12957d262bc923cb2))
+
 # [1.3.0](https://github.com/saltstack-formulas/chrony-formula/compare/v1.2.5...v1.3.0) (2021-08-25)
 
 
